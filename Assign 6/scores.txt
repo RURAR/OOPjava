@@ -1,0 +1,6 @@
+Player: azh, Difficulty: 2, Score: 0
+Player: azh, Difficulty: 2, Score: 0
+Player: azh, Difficulty: 1, Score: 1
+Player: ralim, Difficulty: 2, Score: 2
+Player: azhar, Difficulty: 1, Score: 5
+Player: railha, Difficulty: 3, Score: 5
