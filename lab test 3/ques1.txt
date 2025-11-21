@@ -1,0 +1,60 @@
+1|What is the capital of India?|Mumbai|New Delhi|Kolkata|Chennai|B
+1|How many colors are in a rainbow?|5|6|7|8|C
+1|Which planet is known as the Red Planet?|Venus|Mars|Jupiter|Mercury|B
+1|What is the largest animal on land?|Lion|Tiger|Elephant|Bear|C
+1|Which gas do plants release?|Oxygen|Carbon dioxide|Nitrogen|Methane|A
+1|Which is the fastest land animal?|Tiger|Lion|Cheetah|Leopard|C
+1|Which organ pumps blood?|Lungs|Brain|Heart|Kidney|C
+1|How many days are in a year?|360|365|366|364|B
+1|Which is the largest ocean?|Atlantic|Indian|Arctic|Pacific|D
+1|Which shape has 3 sides?|Square|Circle|Triangle|Rectangle|C
+1|Which country invented paper?|India|China|Japan|Egypt|B
+1|What is H₂O?|Salt|Water|Oxygen|Hydrogen|B
+1|Which animal gives us milk?|Dog|Cat|Cow|Tiger|C
+1|What do bees make?|Honey|Milk|Oil|Butter|A
+1|Which month has 28 days?|January|February|March|April|B
+1|What do we breathe in?|Carbon dioxide|Oxygen|Nitrogen|Helium|B
+1|Which fruit is known as the king of fruits?|Apple|Mango|Banana|Orange|B
+1|What do plants need to grow?|Moonlight|Air|Sunlight|Wind|C
+1|How many continents are there?|5|6|7|8|C
+1|What is 2+2?|3|4|5|6|B
+2|Who wrote Hamlet?|Charles Dickens|William Shakespeare|Mark Twain|Tolstoy|B
+2|Which is the smallest country in the world?|Bhutan|Vatican City|Nepal|Monaco|B
+2|Where is the Taj Mahal located?|Delhi|Mumbai|Agra|Jaipur|C
+2|Who discovered gravity?|Newton|Einstein|Tesla|Edison|A
+2|Which planet has rings?|Mars|Venus|Saturn|Earth|C
+2|What is the boiling point of water?|50°C|75°C|100°C|150°C|C
+2|Who painted Mona Lisa?|Picasso|Da Vinci|Van Gogh|Rembrandt|B
+2|Which organ is responsible for digestion?|Heart|Liver|Kidney|Stomach|D
+2|Which is the longest river in the world?|Amazon|Nile|Ganga|Mississippi|B
+2|Which currency is used in Japan?|Yen|Dollar|Won|Rupee|A
+2|Which is the largest desert?|Gobi|Sahara|Thar|Kalahari|B
+2|What is the hardest natural substance?|Gold|Diamond|Iron|Silver|B
+2|What is the main gas in air?|Oxygen|Carbon dioxide|Nitrogen|Hydrogen|C
+2|Which country gifted the Statue of Liberty to the USA?|Germany|Italy|France|Spain|C
+2|Who invented the telephone?|Graham Bell|Marconi|Newton|Edison|A
+2|What is the capital of Australia?|Melbourne|Sydney|Canberra|Perth|C
+2|Which is the longest bone in the human body?|Skull|Spine|Femur|Rib|C
+2|Which is the coldest place on Earth?|Arctic|Antarctica|Greenland|Siberia|B
+2|What is the chemical symbol for iron?|Ir|Fe|In|Fr|B
+2|Which planet is known as the Blue Planet?|Venus|Mars|Earth|Uranus|C
+3|Which metal is liquid at room temperature?|Iron|Mercury|Aluminium|Lead|B
+3|Who proposed the theory of relativity?|Newton|Einstein|Planck|Bohr|B
+3|Which is the deepest ocean?|Indian|Pacific|Atlantic|Arctic|B
+3|Which country has the highest population?|USA|India|China|Russia|C
+3|Which is the smallest bone in the human body?|Femur|Stapes|Ulna|Rib|B
+3|Who discovered penicillin?|Tesla|Newton|Fleming|Pasteur|C
+3|What is the speed of light?|3000 km/s|300 km/s|300,000 km/s|30,000 km/s|C
+3|Who is the father of computers?|Turing|Babbage|Pascal|Edison|B
+3|Which element has atomic number 1?|Oxygen|Hydrogen|Nitrogen|Helium|B
+3|What is the study of earthquakes called?|Geology|Astrology|Seismology|Hydrology|C
+3|Which ancient civilization built pyramids?|Roman|Greek|Egyptian|Chinese|C
+3|Which country first landed on the moon?|Russia|USA|China|India|B
+3|Which gas causes global warming the most?|CO₂|O₂|H₂|N₂|A
+3|What is the pH of pure water?|0|7|14|1|B
+3|Where is Mount Everest located?|India|Nepal|China|Bhutan|B
+3|Which is the strongest muscle in the body?|Heart|Jaw (Masseter)|Biceps|Neck|B
+3|What is the capital of Canada?|Toronto|Vancouver|Ottawa|Montreal|C
+3|Which blood type is known as Universal Donor?|AB|A|B|O-|D
+3|What is the main component of the Sun?|Iron|Helium|Oxygen|Hydrogen|D
+3|When did World War II end?|1941|1943|1945|1947|C
