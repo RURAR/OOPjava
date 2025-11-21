@@ -1,1 +1,65 @@
 
+import java.io.*;
+import java.util.*;
+
+public class GKQuiz {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Name: ");
+        String name = sc.nextLine().trim();
+        System.out.print("Level (1-Easy,2-Med,3-Hard): ");
+        int level = sc.nextInt(); sc.nextLine();
+
+        List<String[]> list = new ArrayList<>();
+        try (Scanner f = new Scanner(new File("ques1.txt"))) {
+            while (f.hasNextLine()) {
+                String line = f.nextLine().trim();
+                if (line.isEmpty()) continue;
+                String[] p = line.split("\\|");
+                if (p.length != 7) continue;
+                try { if (Integer.parseInt(p[0].trim())==level) list.add(p); } catch(Exception e){}
+            }
+        } catch (Exception e) {
+            System.out.println("Cannot open ques1.txt");
+            return;
+        }
+
+        if (list.isEmpty()) {
+            System.out.println("No questions for this level.");
+            return;
+        }
+
+        Collections.shuffle(list);
+
+        System.out.print("How many questions? (0 for all): ");
+        int want = sc.nextInt(); sc.nextLine();
+        int total = (want <= 0) ? list.size() : Math.min(want, list.size());
+
+        int score = 0;
+        for (int i = 0; i < total; i++) {
+            String[] q = list.get(i);
+            System.out.println("\n" + q[1]);
+            System.out.println("A) " + q[2]);
+            System.out.println("B) " + q[3]);
+            System.out.println("C) " + q[4]);
+            System.out.println("D) " + q[5]);
+            System.out.print("Answer (A/B/C/D): ");
+            String in = sc.nextLine().trim().toUpperCase();
+            char ans = (in.isEmpty() ? ' ' : in.charAt(0));
+            char corr = q[6].trim().toUpperCase().charAt(0);
+            if (ans == corr) {
+                System.out.println("Correct!");
+                score++;
+            } else {
+                System.out.println("Wrong! Correct: " + corr);
+            }
+        }
+
+        System.out.println("\nResult for " + name);
+        System.out.println("Level: " + level + "  Score: " + score + "/" + total + "  Wrong: " + (total - score));
+
+        try (FileWriter fw = new FileWriter("quiz_scores.txt", true)) {
+            fw.write(name + "," + level + "," + score + "/" + total + "\n");
+        } catch (Exception e) {}
+    }
+}
